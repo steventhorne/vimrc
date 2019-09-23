@@ -1,0 +1,9 @@
+[submodule "sources_non_forked/vim-code-dark"]
+	path = sources_non_forked/vim-code-dark
+	url = https://github.com/tomasiser/vim-code-dark
+[submodule "sources_non_forked/vim-javascript"]
+	path = sources_non_forked/vim-javascript
+	url = https://github.com/pangloss/vim-javascript
+[submodule "sources_non_forked/FastFold"]
+	path = sources_non_forked/FastFold
+	url = https://github.com/Konfekt/FastFold
